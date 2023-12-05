@@ -28,5 +28,5 @@ Here is the list of libraries we used in our code:
     seaborn - for additional data visualization, including heatmap.
     train_test_split and cross_val_predict - from sklearn.model_selection for splitting datasets and cross-validation.
 
-Please install these libraries (such as statsmodels, numpy, pandas, matplotlib, sklearn, ISLP,seaborn, requests, zipfile, io, and os) 
+Please install these libraries (statsmodels, numpy, pandas, matplotlib, sklearn, ISLP,seaborn, requests, zipfile, io, and os) 
 before you run the program if needed.
