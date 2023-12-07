@@ -30,3 +30,6 @@ Here is the list of libraries we used in our code:
 
 Please install these libraries (statsmodels, numpy, pandas, matplotlib, sklearn, ISLP,seaborn, requests, zipfile, io, and os) 
 before you run the program if needed.
+
+
+Note: The program is expected to run for a total duration of 17 minutes
